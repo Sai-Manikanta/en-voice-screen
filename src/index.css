@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.transcript-output::first-letter {
+    text-transform: uppercase;
+}
